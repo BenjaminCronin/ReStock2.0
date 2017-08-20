@@ -1,0 +1,19 @@
+For the Large and Small drop tanks, the Flip Fantasia Airliner Wing and ThunderMax Interstage adapter to work, you must COPY four stock part files to these locations.
+
+Copy mk1fuselage.mu and mk1fuselageFuel.mbm from
+
+Gamedata\Squad\Parts\MK1
+
+to
+
+Gamedata\ReStock\parts\MK1\mk1fuselage
+
+Copy mk1structural.mu and mk1fuselage.mbm from
+
+Gamedata\Squad\Parts\MK1
+
+to
+
+Gamedata\ReStock\parts\MK1\mk1structural
+
+Since Squad has put several parts into a single folder, this is the only way I've been able to get these components to load in KSP.

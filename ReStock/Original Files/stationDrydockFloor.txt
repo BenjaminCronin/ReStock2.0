@@ -1,0 +1,231 @@
+PART
+{
+name = drydockFloor
+module = Part
+author = Squad, PolecatEZ
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 6, 0.0, -14.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 6, 0.0, -2.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 6, 0.0, 2.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -6, 0.0, -2.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -6, 0.0, 2.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -2.0, 0.0, -14.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 2.0, 0.0, -14.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -2, 0.0, 14.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 2.0, 0.0, 14.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 6.0, 0.0, -10.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -6.0, 0.0, 6.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -2.0, 0.0, 10.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 2.0, 0.0, 10.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 6.0, 0.0, 14.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 6.0, 0.0, 10.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 6.0, 0.0, 6.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -6.0, 0.0, -14.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -6.0, 0.0, -10.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -6.0, 0.0, -6.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -2.0, 0.0, -10.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 2.0, 0.0, -10.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -6.0, 0.0, 14.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = -6.0, 0.0, 10.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Structural/structuralPanel2/model
+   position = 6.0, 0.0, -6.0
+   scale = 2.0, 2.0, 2.0
+   rotation = 0, 0, 0
+}
+
+MODEL
+{
+   model = Squad/Parts/Aero/wingConnector/model
+   position = 4.0, 0.0, -0.32
+   scale = 5.8, 5.7, 0.5
+   rotation = 90, 0, 0
+}
+
+
+rescaleFactor = 1
+
+// node_stack_right = 8, 0, 0, -1, 0, 0, 0
+// node_stack_left = -8, 0, 0, 1, 0, 0, 0
+
+// node_stack_back = 0, 0, 16, 0, 0,-1, 0
+// node_stack_front = 0, 0,-16, 0, 0, 1, 0
+
+node_stack_top = 0, 0.055, 0, 0,-1, 0, 0
+node_stack_bottom = 0,-0.055, 0, 0, 1, 0, 0
+
+// node_attach = 0,-0.045, 0, 0, -1, 0, 0
+node_attach = -8, 0, 0, -8, 0, 0, 0
+
+cost = 9200
+category = Structural
+subcategory = 0
+title = Drydock Floor
+manufacturer = AeroKerbin Mobile Homes Division
+description = A nice white-walled floor or ceiling for your space station needs.
+
+together with really strong super glue.
+attachRules = 1,1,1,1,1
+
+// --- standard part parameters ---
+mass = 58
+dragModelType = default
+maximum_drag = 0.2
+minimum_drag = 0.2
+angularDrag = 1
+crashTolerance = 80
+breakingForce = 1600
+breakingTorque = 1600
+maxTemp = 4800
+fuelCrossFeed = False
+}

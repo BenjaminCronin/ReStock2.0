@@ -1,0 +1,27 @@
+http://theoreticalmachinist.com/BoltCircleCalc
+
+node_stack_bottom11 = 1.7, .78, 0, 0, 1, 0, 2
+node_stack_bottom12 = .85, .78, -1.472, 0, 1, 0, 2
+node_stack_bottom13 = -.85, .78, 1.472, 0, 1, 0, 2
+node_stack_bottom14 = -1.7, .78, 0, 0, 1, 0, 2
+node_stack_bottom15 = -.85, .78, -1.472, 0, 1, 0, 2
+node_stack_bottom16 = .85, .78, 1.472, 0, 1, 0, 2
+
+node_stack_bottom11 =    1.8, .78,      0, 0, 1, 0, 2
+node_stack_bottom12 =  1.273, .78,  1.273, 0, 1, 0, 2
+node_stack_bottom13 =      0, .78,    1.8, 0, 1, 0, 2
+node_stack_bottom14 = -1.273, .78,  1.273, 0, 1, 0, 2
+node_stack_bottom15 =   -1.8, .78,      0, 0, 1, 0, 2
+node_stack_bottom16 = -1.273, .78, -1.273, 0, 1, 0, 2
+node_stack_bottom17 =      0, .78,   -1.8, 0, 1, 0, 2
+node_stack_bottom18 =  1.273, .78, -1.273, 0, 1, 0, 2
+
+	X	Y	Angle
+1)	1.800	0.000	0.000
+2)	1.273	1.273	45.000
+3)	-0.000	1.800	90.000
+4)	-1.273	1.273	135.000
+5)	-1.800	-0.000	180.000
+6)	-1.273	-1.273	225.000
+7)	0.000	-1.800	270.000
+8)	1.273	-1.273	315.000

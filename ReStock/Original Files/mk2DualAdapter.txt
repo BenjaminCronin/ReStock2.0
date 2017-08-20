@@ -1,0 +1,3 @@
+Deprecated. Edit your craft, save and persistent files. Do a search and replace of Mk2DualAdapter with mk2_1m_Bicoupler or perhaps just bicoupler
+
+Not responsible if this explodes your craft file or save.
